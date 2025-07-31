@@ -9,7 +9,7 @@ Focused on learning, contributing, and collaborating to create scalable mobile s
 ## 🔗 Socials
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/Ashishmaurya)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=flat-square)]([https://instagram.com/yourusername](https://www.instagram.com/ashish_mourya0005?igsh=dXgyeWtpdGE2MW1j))
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=flat-square)](https://www.instagram.com/ashish_mourya0005?igsh=dXgyeWtpdGE2MW1j)
 
 ---
 
