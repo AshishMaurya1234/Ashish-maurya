@@ -1,7 +1,7 @@
 # 🙋‍♂️ About Me
 
 I'm Ashish Mourya — a mobile developer passionate about clean code, deep learning, and building impactful applications.  
-Currently studying on **custom Android apps** or **Kotlin**, and exploring **Flutter** for cross-platform solutions.  
+Currently studying on **Android apps, ios app, windows, macos or linux os** or **Kotlin**, and exploring **Flutter** for cross-platform solutions.  
 Focused on learning, contributing, and collaborating to create scalable mobile solutions, 
 And I have good knowledge of Java and Python and also know Node JS and React
 
