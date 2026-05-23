@@ -40,7 +40,7 @@ An AI-powered job matching engine using React 19 SSR (TanStack Start) deployed r
 
 ## 🔗 Let's Build Something Great Together
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/ashish-maurya)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/ashish-maurya-218166307)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/ashish_mourya0005)
 
 > 💡 *"Code is like humor. When you have to explain it, it’s bad."* — Cory House
