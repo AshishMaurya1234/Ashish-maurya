@@ -1,28 +1,25 @@
 # 🙋‍♂️ About Me
 
-I'm Ashish Mourya — a mobile developer passionate about clean code, deep learning, and building impactful applications.  
-Currently studying on **Android apps, ios app, windows, macos or linux os** or **Kotlin**, and exploring **Flutter** for cross-platform solutions.  
-Focused on learning, contributing, and collaborating to create scalable mobile solutions, 
-And I have good knowledge of Java and Python and also know Node JS and React
+I'm **Ashish Maurya** — a software engineer passionate about writing clean, typed code, deep learning models, and production-ready applications.
+
+* 📱 **Core Focus:** Building high-performance native experiences with **Kotlin & Android OS**, alongside multi-platform compilation using **Flutter**.
+* 🌐 **Full-Stack Edge:** Deeply familiar with building secure backend nodes using **Node.js/Java** and interactive user interfaces using **React / TanStack Engines**.
+* 🤖 **AI Integration:** Actively implementing low-latency inference apps using edge hosting options like Cloudflare Workers paired with raw LLM engines.
 
 ---
 
-## 🔗 Socials
+## 🌟 Highlight Project
+
+### [🚀 CareerMatch AI — Personalized Job Search Engine] https://career-match-ai-01.ashishmaurya61040005.workers.dev/
+An AI-powered job matching engine using React 19 SSR (TanStack Start) deployed right on **Cloudflare Edge Workers**. It accepts a complex multi-step career preference form, passes it through an engineered fallback chain of **Groq LLM targets**, and handles live paginated job feeds without blowing up client bundles.
+* **Tech Stack:** React 19, TanStack Start, Cloudflare Edge, Tailwind v4, Groq API, Zod.
+
+---
+
+## 🔗 Let's Build Something Great Together
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/Ashishmaurya)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=flat-square)](https://www.instagram.com/ashish_mourya0005?igsh=dXgyeWtpdGE2MW1j)
-
----
-
-## 🛠️ Tech Stack
-
-![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ---
 
