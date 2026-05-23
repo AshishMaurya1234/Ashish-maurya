@@ -16,21 +16,31 @@ An AI-powered job matching engine using React 19 SSR (TanStack Start) deployed r
 
 ---
 
+## 🛠️ Technology Vector
+
+```💡 My Core Developer Toolbelt```
+
+| Platform / Ecosystem | Stack Tools |
+| :--- | :--- |
+| **Mobile Engineering** | `Kotlin` `Flutter` `Android SDK` `Java` |
+| **Full Stack Web / AI** | `React 19` `Node.js` `TanStack Start` `Zod` `Groq API` |
+| **Cloud Infrastructures** | `Cloudflare Workers` `Supabase` `Firebase` |
+| **Version Pipelines** | `Git Engine` `GitHub Actions` `VS Code` |
+
+---
+
+## 📊 Developer Metrics
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ashishmourya&show_icons=true&theme=tokyonight&count_private=true" alt="Ashish's GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishmourya&layout=compact&theme=tokyonight" alt="Top Languages" height="180px" />
+</p>
+
+---
+
 ## 🔗 Let's Build Something Great Together
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/Ashishmaurya)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=flat-square)](https://www.instagram.com/ashish_mourya0005?igsh=dXgyeWtpdGE2MW1j)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/Ashishmaurya)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/ashish_mourya0005)
 
----
-
-## 📈 GitHub Stats
-
-![Ashish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashishmourya&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashishmourya&layout=compact&theme=tokyonight)
-
----
-
-## 💬 Quote
-
-> *“Code is like humor. When you have to explain it, it’s bad.”* — Cory House
+> 💡 *"Code is like humor. When you have to explain it, it’s bad."* — Cory House
