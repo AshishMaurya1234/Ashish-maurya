@@ -1,4 +1,4 @@
-# 🙋‍♂️ About Me
+# 🙋‍♂️ About Me (Ashish maurya)
 
 I'm **Ashish Maurya** — a software engineer passionate about writing clean, typed code, deep learning models, and production-ready applications.
 
